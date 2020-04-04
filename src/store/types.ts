@@ -1,0 +1,6 @@
+export enum actionTypes {
+  CHANGE_MODULE,
+  CHANGE_COVERAGE,
+  CHANGE_MODAL,
+  CHANGE_FORM,
+}
